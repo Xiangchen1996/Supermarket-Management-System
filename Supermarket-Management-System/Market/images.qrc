@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/login_close.jpg</file>
+        <file>images/login_main.jpg</file>
+        <file>images/login_min.jpg</file>
+        <file>images/login_press.jpg</file>
+        <file>images/chart.png</file>
+        <file>images/control-panel.png</file>
+        <file>images/inventory-maintenance.png</file>
+        <file>images/members.png</file>
+        <file>images/packing2.png</file>
+        <file>images/report_calc.png</file>
+        <file>images/smart-folder.png</file>
+        <file>images/vip.png</file>
+        <file>images/supplier.png</file>
+        <file>images/main.jpg</file>
+        <file>images/middle.jpg</file>
+        <file>images/control-panel_2.png</file>
+        <file>images/inventory-maintenance_2.png</file>
+        <file>images/members_2.png</file>
+        <file>images/packing2_2.png</file>
+        <file>images/report_calc_2.png</file>
+        <file>images/supplier_2.png</file>
+        <file>images/vip_2.png</file>
+        <file>images/control-panel_3.png</file>
+        <file>images/inventory-maintenance_3.png</file>
+        <file>images/members_3.png</file>
+        <file>images/packing2_3.png</file>
+        <file>images/report_calc_3.png</file>
+        <file>images/sell_3.png</file>
+        <file>images/vip_3.png</file>
+        <file>images/login_close_2.jpg</file>
+        <file>images/login_close_3.jpg</file>
+        <file>images/login_min_2.jpg</file>
+        <file>images/login_min_3.jpg</file>
+        <file>images/welcome.jpg</file>
+    </qresource>
+</RCC>

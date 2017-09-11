@@ -1,0 +1,12 @@
+root   login   2017-07-06 14:13:31 周四
+//backUp DataBase   2017-07-06 14:14:06 周四
+root   login   2017-07-06 14:36:46 周四
+//backUp DataBase   2017-07-06 14:37:04 周四
+//clearUp DataBase   2017-07-06 14:37:06 周四
+root   login   2017-07-06 14:39:41 周四
+update User 20140000   2017-07-06 14:40:32 周四
+20140000   login   2017-07-06 14:40:54 周四
+root   login   2017-07-06 14:45:04 周四
+//load DataBase   2017-07-06 15:07:29 周四
+//clearUp DataBase   2017-07-06 15:07:52 周四
+//clearUp DataBase   2017-07-06 15:08:50 周四
